@@ -58,7 +58,7 @@ server.post("/savepoint", (req, res) => {
     req.body.address2,
     req.body.state,
     req.body.city,
-    req.body.items,
+    req.body.items
     ]
 
     function afterInsertData(err) {
