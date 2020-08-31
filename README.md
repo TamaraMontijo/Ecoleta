@@ -12,19 +12,19 @@ uma imagem do ponto de coleta
 nome da entidade, email e whatsapp
 e o endereço para que ele possa aparecer no mapa
 além de selecionar um ou mais ítens de coleta:
-lâmpadas
-pilhas e baterias
-papéis e papelão
-resíduos eletrônicos
-resíduos orgânicos
-óleo de cozinha
+- lâmpadas
+- pilhas e baterias
+- papéis e papelão
+- resíduos eletrônicos
+- resíduos orgânicos
+- óleo de cozinha
+
 Os usuários terão acesso ao aplicativo móvel, onde poderão:
 
-navegar pelo mapa para ver as instituições cadastradas
-entrar em contato com a entidade através do E-mail ou do WhatsApp
+- navegar pelo mapa para ver as instituições cadastradas
+- entrar em contato com a entidade através do E-mail ou do WhatsApp
+
 Projeto desenvolvido durante a NLW - Next Level Week oferecida pela Rocketseat. O NLW é uma experiência online com muito conteúdo prático, desafios e hacks onde o conteúdo fica disponível durante uma semana.
-
-
 
 
 # 🎨 Layout
@@ -40,20 +40,14 @@ Projeto desenvolvido durante a NLW - Next Level Week oferecida pela Rocketseat. 
 # 🛠 Tecnologias
 As seguintes ferramentas foram usadas na construção do projeto:
 
-Expo
-Node.js
-React
-React Native
-TypeScript
+* Expo
+* Node.js
+* React
+* React Native
+* TypeScript
 
-# 🚀 Como executar o projeto
-Podemos considerar este projeto como sendo divido em três partes:
-
-Back End (pasta server)
-Front End (pasta web)
-Mobile (pasta mobile)
-
-💡Tanto o Frontend quanto o Mobile precisam que o Backend esteja sendo executado para funcionar.
+# 📝 Licença
+Esse projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
 
 
 Feito com ❤️ por Tamara Montijo 👋🏽 
