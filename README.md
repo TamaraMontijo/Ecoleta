@@ -1,5 +1,5 @@
 
-💻 Sobre o projeto
+# 💻 Sobre o projeto
 
 ![banner ecoleta](https://user-images.githubusercontent.com/56484115/89431974-f4879500-d716-11ea-85e0-2cb994848eee.png)
 
@@ -27,7 +27,7 @@ Projeto desenvolvido durante a NLW - Next Level Week oferecida pela Rocketseat. 
 
 
 
-🎨 Layout
+# 🎨 Layout
 
 
 
@@ -37,7 +37,7 @@ Projeto desenvolvido durante a NLW - Next Level Week oferecida pela Rocketseat. 
 ![image](https://user-images.githubusercontent.com/56484115/89432274-4a5c3d00-d717-11ea-88bd-bcb77e6bc197.png)
 ![image](https://user-images.githubusercontent.com/56484115/89432363-66f87500-d717-11ea-9936-b488b8b46dc3.png)
 
-🛠 Tecnologias
+# 🛠 Tecnologias
 As seguintes ferramentas foram usadas na construção do projeto:
 
 Expo
@@ -46,20 +46,14 @@ React
 React Native
 TypeScript
 
-🚀 Como executar o projeto
+# 🚀 Como executar o projeto
 Podemos considerar este projeto como sendo divido em três partes:
 
 Back End (pasta server)
 Front End (pasta web)
 Mobile (pasta mobile)
-💡Tanto o Front End quanto o Mobile precisam que o Back End esteja sendo executado para funcionar.
 
-😯 Como contribuir para o projeto
-Faça um fork do projeto.
-Crie uma nova branch com as suas alterações: git checkout -b my-feature
-Salve as alterações e crie uma mensagem de commit contando o que você fez: git commit -m "feature: My new feature"
-Envie as suas alterações: git push origin my-feature
-Caso tenha alguma dúvida confira este guia de como contribuir no GitHub
+💡Tanto o Frontend quanto o Mobile precisam que o Backend esteja sendo executado para funcionar.
 
 
 Feito com ❤️ por Tamara Montijo 👋🏽 
